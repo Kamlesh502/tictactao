@@ -1,2 +1,2 @@
 # tictactao
-Made an tictactaoa app using Android studio
+Made a tictactaoa app using Android studio
